@@ -16,8 +16,3 @@ Para a construção deste jogo, foram explorados conceitos essenciais do JavaScr
 * **Manipulação de Arrays**: Uso de arrays para armazenar e comparar as sequências geradas aleatoriamente e as jogadas do usuário.
 * **Arrow Functions**: Implementação de funções de forma concisa e moderna.
 * **DOM (Document Object Model)**: Manipulação dos elementos HTML para feedback visual ao jogador (efeitos de clique e acendimento das cores).
-
-## 🚀 Como Jogar
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
